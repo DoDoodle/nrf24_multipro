@@ -11,7 +11,7 @@ The folder pdb where added. If you have the ways to make it makeit.
 ![Screenshot](http://i.imgur.com/AeMJKzT.jpg)  
 [Need a module ?](mailto:goebish@gmail.com?Subject=nrf24-multipro%20module)
 
-## Binding Procedure
+### Binding Procedure
 - Create a model in OpenTX using external module in PPM mode, 12 channels and TAER sequence order.
 - Turn off Taranis.
 - Power up quad.
@@ -19,7 +19,7 @@ The folder pdb where added. If you have the ways to make it makeit.
 - Arm quad based on it's firmware's specification.
 
 
-#### Protocol is selected with stick position at startup:
+##### Protocol is selected with stick position at startup:
 
 - Rudder right + Aileron right + Elevator down = EAchine E010, NiHui NH-010, JJRC H36 mini  
 - Rudder right + Aileron right + Elevator up = FQ-777-124 Pocket Drone  
@@ -40,7 +40,7 @@ The folder pdb where added. If you have the ways to make it makeit.
 
 Last used protocol is automatically selected if stick is in neutral position.
 
-#### Extra features (if available on aircraft):
+##### Extra features (if available on aircraft):
 
 - Channel 5: led light, 3 pos. rate on CX-10 and FQ777-124, H7, inverted flight on H101  
 - Channel 6: flip control  
