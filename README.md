@@ -1,6 +1,13 @@
 # nrf24-multipro
 nRF24L01 multi-protocol RC transmitter
 
+##!!!ATENTION
+
+This work where based on Goebish´s work, and the main intention were make available for makers all over the world the pdb in eaglecad format
+
+The folder pdb where added. If you have the ways to make it makeit.
+
+
 ![Screenshot](http://i.imgur.com/AeMJKzT.jpg)  
 [Need a module ?](mailto:goebish@gmail.com?Subject=nrf24-multipro%20module)
 
@@ -9,7 +16,7 @@ nRF24L01 multi-protocol RC transmitter
 - Turn off Taranis.
 - Power up quad.
 - While holding the appropriate stick pattern listed below, power up Taranis.
-- Arm quad based on it's firmware's specification. 
+- Arm quad based on it's firmware's specification.
 
 
 #### Protocol is selected with stick position at startup:
